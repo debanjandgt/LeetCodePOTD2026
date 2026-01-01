@@ -18,3 +18,6 @@ class Solution {
     return digits;
   }
 };
+
+--TC -> O(n)
+--SC -> O(1)
